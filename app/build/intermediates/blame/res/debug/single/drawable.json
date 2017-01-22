@@ -1,0 +1,654 @@
+[
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anivia.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\anivia.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ashe_skin_8.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ashe_skin_8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar_ab_2.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar_ab_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aatrox_skin_3.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aatrox_skin_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu_ab_3.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu_ab_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akali_skin_1.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\akali_skin_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\azir_skin_1.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\azir_skin_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_pass.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aurelion_sol_ab_3.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aurelion_sol_ab_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aatrox_pass.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aatrox_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\azir_skin_2.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\azir_skin_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anivia_pass.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\anivia_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\azir_ab_3.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\azir_ab_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar_ab_1.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar_ab_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aurelion_sol_skin_1.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aurelion_sol_skin_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ashe_pass.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ashe_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aatrox_skin_4.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aatrox_skin_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu_ab_2.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu_ab_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar_skin_4.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar_skin_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anivia_skin_7.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\anivia_skin_7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu_skin_4.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu_skin_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\azir_ab_2.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\azir_ab_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\azir_ult.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\azir_ult.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\azir_skin_3.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\azir_skin_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anivia_skin_6.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\anivia_skin_6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ashe_skin_6.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ashe_skin_6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akali_ab_1.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\akali_ab_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akali_skin_2.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\akali_skin_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ashe.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ashe.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar_ult.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar_ult.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bard_ab_3.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\bard_ab_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu_skin_3.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu_skin_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar_skin_3.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar_skin_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_skin_9.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_skin_9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu_skin_6.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu_skin_6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar_skin_6.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar_skin_6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aurelion_sol_skin_2.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aurelion_sol_skin_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aurelion_sol_ab_2.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aurelion_sol_ab_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ahri_skin_7.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ahri_skin_7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ashe_skin_5.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ashe_skin_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aurelion_sol_ult.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aurelion_sol_ult.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akali_ab_2.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\akali_ab_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_skin_2.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_skin_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anivia_ab_3.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\anivia_ab_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_skin_8.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_skin_8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu_ult.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu_ult.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bard_ult.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\bard_ult.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bard_skin_2.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\bard_skin_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aatrox_ab_3.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aatrox_ab_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bard.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\bard.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu_pass.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ashe_ab_3.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ashe_ab_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu_ab_1.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu_ab_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ahri_skin_6.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ahri_skin_6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aatrox_skin_1.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aatrox_skin_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar_skin_7.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar_skin_7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu_skin_7.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu_skin_7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akali.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\akali.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu_skin_1.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu_skin_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anivia_skin_4.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\anivia_skin_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aatrox_ab_2.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aatrox_ab_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aurelion_sol.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aurelion_sol.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bard_skin_1.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\bard_skin_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar_skin_1.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar_skin_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akali_ult.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\akali_ult.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ahri_skin_3.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ahri_skin_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bard_ab_2.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\bard_ab_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar_ab_3.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar_ab_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_skin_10.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_skin_10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\azir_ab_1.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\azir_ab_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akali_skin_3.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\akali_skin_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akali_skin_6.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\akali_skin_6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\azir_pass.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\azir_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ashe_skin_2.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ashe_skin_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akali_skin_7.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\akali_skin_7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ahri_skin_4.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ahri_skin_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ahri.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ahri.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anivia_skin_1.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\anivia_skin_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_skin_5.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_skin_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_ab_1.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_ab_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aatrox_ab_1.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aatrox_ab_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akali_skin_8.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\akali_skin_8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_ab_2.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_ab_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ahri_ab_3.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ahri_ab_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ahri_ab_2.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ahri_ab_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\azir.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\azir.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_skin_11.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_skin_11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akali_pass.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\akali_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anivia_skin_3.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\anivia_skin_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ashe_ab_2.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ashe_ab_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ashe_skin_3.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ashe_skin_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar_skin_9.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar_skin_9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu_skin_9.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu_skin_9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_ab_3.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_ab_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_skin_6.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_skin_6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aatrox.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aatrox.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ashe_ult.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ashe_ult.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aatrox_ult.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aatrox_ult.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anivia_ab_2.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\anivia_ab_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_skin_3.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_skin_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ahri_skin_1.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ahri_skin_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anivia_ult.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\anivia_ult.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ahri_pass.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ahri_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akali_skin_4.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\akali_skin_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_ult.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_ult.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akali_skin_5.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\akali_skin_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aurelion_sol_ab_1.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aurelion_sol_ab_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aurelion_sol_pass.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aurelion_sol_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ahri_skin_2.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ahri_skin_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ahri_ult.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ahri_ult.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_skin_1.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_skin_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akali_ab_3.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\akali_ab_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bard_ab_1.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\bard_ab_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bard_pass.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\bard_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar_skin_5.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar_skin_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu_skin_5.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu_skin_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu_skin_2.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu_skin_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar_skin_8.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar_skin_8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amumu_skin_8.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\amumu_skin_8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar_skin_2.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar_skin_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ahri_skin_5.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ahri_skin_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bard_skin_3.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\bard_skin_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alistar_pass.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\alistar_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ashe_ab_1.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ashe_ab_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ashe_skin_1.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ashe_skin_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ashe_skin_4.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ashe_skin_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anivia_ab_1.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\anivia_ab_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_skin_4.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_skin_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annie_skin_7.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\annie_skin_7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anivia_skin_2.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\anivia_skin_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ashe_skin_7.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ashe_skin_7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ahri_ab_1.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\ahri_ab_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anivia_skin_5.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\anivia_skin_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aatrox_skin_2.jpg",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\LOLDatabase\\app\\src\\main\\res\\drawable\\aatrox_skin_2.jpg"
+    }
+]
